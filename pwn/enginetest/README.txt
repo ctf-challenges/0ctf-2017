@@ -1,0 +1,1 @@
+run go.sh and check yout flag
